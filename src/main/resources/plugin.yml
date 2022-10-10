@@ -1,0 +1,23 @@
+name: Aqualand-Lobby
+version: '${project.version}'
+main: dev.tobys.aqualand.Aqualand
+api-version: 1.18
+authors: [ Tobys__ ]
+description: AquaLand - Lobby System
+commands:
+  menu:
+  ping:
+  discord:
+  store:
+  web:
+  gmc:
+  gma:
+  gmsp:
+  gms:
+  clearchat:
+  server:
+  lag:
+  feed:
+  heal:
+  enderchest:
+  workbench:
